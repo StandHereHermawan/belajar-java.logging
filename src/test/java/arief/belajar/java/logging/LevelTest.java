@@ -11,11 +11,11 @@ public class LevelTest {
     @Test
     void testLevel() {
 
-        log.trace("Trace level");
-        log.debug("Debug level");
-        log.info("Info Level");
-        log.warn("Warn level");
-        log.error("Error level");
+        log.trace("Trace");
+        log.debug("Debug");
+        log.info("Info");
+        log.warn("Warn");
+        log.error("Error");
 
     }
 }
