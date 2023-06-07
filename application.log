@@ -95,3 +95,45 @@ java.lang.NullPointerException: null
 2023-06-07 11:45:38.965 [main] INFO  a.belajar.java.logging.LevelTest - Info
 2023-06-07 11:45:38.965 [main] WARN  a.belajar.java.logging.LevelTest - Warn
 2023-06-07 11:45:38.966 [main] ERROR a.belajar.java.logging.LevelTest - Error
+2023-06-07 12:50:14.851 [main] INFO  a.belajar.java.logging.MyController - a3f28ce2-a677-4de7-b54c-85a4c2ff625c - Controller Save
+2023-06-07 12:50:14.855 [main] INFO  a.belajar.java.logging.MyService - a3f28ce2-a677-4de7-b54c-85a4c2ff625c - Service Save
+2023-06-07 12:50:14.855 [main] INFO  a.belajar.java.logging.MyRepository - a3f28ce2-a677-4de7-b54c-85a4c2ff625c - Repository Save
+2023-06-07 12:55:19.840 [main] INFO  a.belajar.java.logging.MyController - [] - ee67cd24-e39b-4de0-9602-776d527f84a8 - Controller Save
+2023-06-07 12:55:19.843 [main] INFO  a.belajar.java.logging.MyService - [] - ee67cd24-e39b-4de0-9602-776d527f84a8 - Service Save
+2023-06-07 12:55:19.843 [main] INFO  a.belajar.java.logging.MyRepository - [] - ee67cd24-e39b-4de0-9602-776d527f84a8 - Repository Save
+2023-06-07 12:58:59.312 [main] INFO  a.belajar.java.logging.MyController - [d6ac1ea0-4c4f-41a0-b90f-cfdfa94f2028] - d6ac1ea0-4c4f-41a0-b90f-cfdfa94f2028 - Controller Save
+2023-06-07 12:58:59.315 [main] INFO  a.belajar.java.logging.MyService - [d6ac1ea0-4c4f-41a0-b90f-cfdfa94f2028] - d6ac1ea0-4c4f-41a0-b90f-cfdfa94f2028 - Service Save
+2023-06-07 12:58:59.315 [main] INFO  a.belajar.java.logging.MyRepository - [d6ac1ea0-4c4f-41a0-b90f-cfdfa94f2028] - d6ac1ea0-4c4f-41a0-b90f-cfdfa94f2028 - Repository Save
+2023-06-07 13:00:36.817 [main] INFO  a.belajar.java.logging.MyController - [bcb2ed2c-3328-4a8a-829c-00bbda0f00f8] - Controller Save
+2023-06-07 13:00:36.818 [main] INFO  a.belajar.java.logging.MyService - [bcb2ed2c-3328-4a8a-829c-00bbda0f00f8] - Service Save
+2023-06-07 13:00:36.818 [main] INFO  a.belajar.java.logging.MyRepository - [bcb2ed2c-3328-4a8a-829c-00bbda0f00f8] - Repository Save
+2023-06-07 13:07:08.006 [Thread-2] INFO  a.belajar.java.logging.MyController - [2d6cfb56-f81c-4137-a57a-5e9d4b0e97e5] - Controller Save
+2023-06-07 13:07:08.006 [Thread-9] INFO  a.belajar.java.logging.MyController - [e2b90884-8eeb-442f-b4e5-7459c10dee50] - Controller Save
+2023-06-07 13:07:08.006 [Thread-3] INFO  a.belajar.java.logging.MyController - [27f24d3f-eef3-49fa-b160-05498eceb760] - Controller Save
+2023-06-07 13:07:08.006 [Thread-5] INFO  a.belajar.java.logging.MyController - [097f52f5-4969-4534-b1a0-6354fe1401da] - Controller Save
+2023-06-07 13:07:08.006 [Thread-8] INFO  a.belajar.java.logging.MyController - [80236091-79eb-4d22-86c7-ed71379738f9] - Controller Save
+2023-06-07 13:07:08.006 [Thread-0] INFO  a.belajar.java.logging.MyController - [66897def-9b34-49d8-b76b-b7074c9963ff] - Controller Save
+2023-06-07 13:07:08.006 [Thread-6] INFO  a.belajar.java.logging.MyController - [e08f4a4f-14b7-4ca0-b7f3-d7baab8e3a0a] - Controller Save
+2023-06-07 13:07:08.006 [Thread-7] INFO  a.belajar.java.logging.MyController - [48bb007f-3276-499b-b310-2022ca8380c8] - Controller Save
+2023-06-07 13:07:08.007 [Thread-3] INFO  a.belajar.java.logging.MyService - [27f24d3f-eef3-49fa-b160-05498eceb760] - Service Save
+2023-06-07 13:07:08.006 [Thread-4] INFO  a.belajar.java.logging.MyController - [1a3fa9fd-52fc-46cc-aa0d-2a239fdfdaa0] - Controller Save
+2023-06-07 13:07:08.008 [Thread-3] INFO  a.belajar.java.logging.MyRepository - [27f24d3f-eef3-49fa-b160-05498eceb760] - Repository Save
+2023-06-07 13:07:08.007 [Thread-0] INFO  a.belajar.java.logging.MyService - [66897def-9b34-49d8-b76b-b7074c9963ff] - Service Save
+2023-06-07 13:07:08.006 [Thread-1] INFO  a.belajar.java.logging.MyController - [b70f330e-9ddf-48a6-9b17-15e9cd5ed68d] - Controller Save
+2023-06-07 13:07:08.007 [Thread-9] INFO  a.belajar.java.logging.MyService - [e2b90884-8eeb-442f-b4e5-7459c10dee50] - Service Save
+2023-06-07 13:07:08.008 [Thread-0] INFO  a.belajar.java.logging.MyRepository - [66897def-9b34-49d8-b76b-b7074c9963ff] - Repository Save
+2023-06-07 13:07:08.007 [Thread-6] INFO  a.belajar.java.logging.MyService - [e08f4a4f-14b7-4ca0-b7f3-d7baab8e3a0a] - Service Save
+2023-06-07 13:07:08.007 [Thread-2] INFO  a.belajar.java.logging.MyService - [2d6cfb56-f81c-4137-a57a-5e9d4b0e97e5] - Service Save
+2023-06-07 13:07:08.007 [Thread-5] INFO  a.belajar.java.logging.MyService - [097f52f5-4969-4534-b1a0-6354fe1401da] - Service Save
+2023-06-07 13:07:08.008 [Thread-6] INFO  a.belajar.java.logging.MyRepository - [e08f4a4f-14b7-4ca0-b7f3-d7baab8e3a0a] - Repository Save
+2023-06-07 13:07:08.008 [Thread-7] INFO  a.belajar.java.logging.MyService - [48bb007f-3276-499b-b310-2022ca8380c8] - Service Save
+2023-06-07 13:07:08.008 [Thread-2] INFO  a.belajar.java.logging.MyRepository - [2d6cfb56-f81c-4137-a57a-5e9d4b0e97e5] - Repository Save
+2023-06-07 13:07:08.008 [Thread-5] INFO  a.belajar.java.logging.MyRepository - [097f52f5-4969-4534-b1a0-6354fe1401da] - Repository Save
+2023-06-07 13:07:08.008 [Thread-7] INFO  a.belajar.java.logging.MyRepository - [48bb007f-3276-499b-b310-2022ca8380c8] - Repository Save
+2023-06-07 13:07:08.007 [Thread-8] INFO  a.belajar.java.logging.MyService - [80236091-79eb-4d22-86c7-ed71379738f9] - Service Save
+2023-06-07 13:07:08.008 [Thread-4] INFO  a.belajar.java.logging.MyService - [1a3fa9fd-52fc-46cc-aa0d-2a239fdfdaa0] - Service Save
+2023-06-07 13:07:08.008 [Thread-1] INFO  a.belajar.java.logging.MyService - [b70f330e-9ddf-48a6-9b17-15e9cd5ed68d] - Service Save
+2023-06-07 13:07:08.008 [Thread-9] INFO  a.belajar.java.logging.MyRepository - [e2b90884-8eeb-442f-b4e5-7459c10dee50] - Repository Save
+2023-06-07 13:07:08.008 [Thread-8] INFO  a.belajar.java.logging.MyRepository - [80236091-79eb-4d22-86c7-ed71379738f9] - Repository Save
+2023-06-07 13:07:08.008 [Thread-4] INFO  a.belajar.java.logging.MyRepository - [1a3fa9fd-52fc-46cc-aa0d-2a239fdfdaa0] - Repository Save
+2023-06-07 13:07:08.008 [Thread-1] INFO  a.belajar.java.logging.MyRepository - [b70f330e-9ddf-48a6-9b17-15e9cd5ed68d] - Repository Save
